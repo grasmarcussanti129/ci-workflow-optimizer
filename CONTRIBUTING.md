@@ -22,7 +22,7 @@ Thank you for your interest in contributing to CI Workflow Optimizer! We appreci
    ```bash
    git push origin my-feature-branch
    ```
-6. **Open a Pull Request** on the original repository.
+6. **Open a Pull Request** on the original repository. Ensure that your Pull Request follows the code review process outlined in the CONTRIBUTING guide.
 
 ## Code Style
 - Adhere to the existing code style. Use linter tools provided in the project to maintain code standards.
