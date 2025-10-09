@@ -10,7 +10,7 @@ Thank you for your interest in contributing to CI Workflow Optimizer! We appreci
    # or, if you prefer SSH, use the following command:
    git clone git@github.com:yourusername/ci-workflow-optimizer.git
    ```
-3. **Create a new branch** for your feature or bugfix:
+3. **Create a new branch** for your feature or bug fix:
    ```bash
    git checkout -b my-feature-branch
    ```
