@@ -7,7 +7,7 @@
    ```
 
 2. **Install Dependencies**:
-   Make sure you have Node.js installed. Then run:
+   Make sure you have Node.js (version 14 or higher) installed. Then run:
    ```bash
    npm install
    ```
